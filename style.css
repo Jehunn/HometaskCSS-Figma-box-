@@ -1,0 +1,93 @@
+h1 {
+    position: absolute;
+    width: 212px;
+    height: 80px;
+    margin-left: 534px;
+    margin-top: 129px;
+    font-size: 3rem;
+    color: white;
+}
+
+p {
+    position: absolute;
+    width: 347px;
+    height: 20px;
+    left: 466px;
+    top: 195px;
+    color: white;
+}
+
+
+.login {
+    position: absolute;
+    width: 300px;
+    height: 45px;
+    margin-left: 490px;
+    margin-top: 260px;
+    color: white;
+}
+
+.password {
+    position: absolute;
+    width: 300px;
+    height: 45px;
+    margin-left: 482px;
+    margin-top: 330px;
+    color: white;
+}
+
+.forgot p{
+    position: absolute;
+width: 108px;
+height: 17px;
+left: 481px;
+top: 376px;
+}
+
+.forgot p2{
+    color: #20DF7F;
+    position: absolute;
+width: 128px;
+height: 17px;
+left: 596px;
+top: 377px;
+}
+
+.loginbutton p3{
+    position: absolute;
+width: 44px;
+height: 20px;
+left: 582px;
+top: 428px;
+color: white;
+background-color: #20DF7F;
+}
+
+.loginbutton .loginbut{
+    position: absolute;
+width: 300px;
+height: 45px;
+left: 460px;
+top: 415px;
+background: #20DF7F;
+}
+
+.forgot .rememberbut{
+    position: absolute;
+width: 18px;
+height: 17px;
+left: 458px;
+top: 376px;
+}
+
+.vectors{
+    position:absolute;
+width: 100%;
+height: 111px;
+left: 0px;
+top: 642px;
+background-image: url(./images/Vectors.png);
+background-repeat: no-repeat;
+background-size:contain;
+margin: 0;
+}
